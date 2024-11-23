@@ -1,0 +1,13 @@
+*{
+    color: black;
+}
+div{
+    color: blue;
+}
+.alert-text{
+    color: red;
+}
+
+.subsection.header {
+    color: gold;
+  }

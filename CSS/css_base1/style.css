@@ -1,0 +1,22 @@
+.normal-div {
+    /* box-sizing: border-box;   */
+    background-color: red;
+    border: 30px solid blue;
+    height: 100px;
+    width: 200px;
+    padding: 10px;
+}
+
+.top-div {
+    margin: 10px;
+    background-color: red;
+    height: 100px;
+    width: 200px;
+  }
+  
+  .bottom-div {
+    margin: 20px;
+    background-color: red;
+    height: 100px;
+    width: 200px;
+  }
