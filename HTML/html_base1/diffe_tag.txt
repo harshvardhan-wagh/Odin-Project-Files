@@ -1,0 +1,11 @@
+Here's a concise explanation of when to use each tag:
+
+- **`<strong>` vs. `<b>`**:
+  - **`<strong>`**: Use this when you want to indicate that text is of strong importance or has serious emphasis. It adds semantic meaning, which helps with accessibility (e.g., screen readers) and SEO.
+  - **`<b>`**: Use this for stylistic bold text when no additional meaning is intended. It’s purely visual and doesn’t imply importance.
+
+- **`<em>` vs. `<i>`**:
+  - **`<em>`**: Use this when you want to stress or emphasize text semantically. It indicates that the text should be emphasized, which can affect how screen readers interpret the content.
+  - **`<i>`**: Use this for text that is set off in an alternate voice or mood (like technical terms, foreign words, or thoughts) purely for visual styling, without implying emphasis.
+
+In short, prefer `<strong>` and `<em>` when the meaning of your content matters, and use `<b>` and `<i>` when you only need to style text without adding extra semantic significance.
